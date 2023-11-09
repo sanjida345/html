@@ -1,0 +1,25 @@
+#heading{
+text-align: center;
+font-size: 50px;
+font-family: 'Times New Roman', Times, serif;
+background-color: green;
+}
+#parents{
+display: flex;
+justify-content: space-around;
+align-items:center;
+}
+#dib{
+height: 400px;
+width: 300px;
+background-color: rgb(108, 187, 108);
+}
+#dib h1{
+text-align: center;
+font-size: 30px;
+text-decoration: underline;
+}
+#dib p{
+text-align: justify;
+font-size: 18px;
+}
